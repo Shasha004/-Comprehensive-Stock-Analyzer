@@ -55,9 +55,8 @@ Streamlit Cloud: [Comprehensive Stock Analyzer](https://shasha004-comprehensive-
 
 ## 📂 Project Structure
 ```
-Comprehensive_Stock_Analyzer/
+Comprehensive_Stock_Analyzer
 ├── stockportfolioanalyzer.py           # Streamlit App
-├── comprehensive_stock_analyzer.py     # Stock Analysis Logic
 ├── requirements.txt                    # Project Dependencies
 └── README.md                           # Project Documentation
 ```
@@ -71,13 +70,3 @@ Comprehensive_Stock_Analyzer/
 - Portfolio momentum scoring and real-time charting
 
 ---
-
-## 🤝 Contributions
-Pull requests are welcome!  
-For major changes, please open an issue first to discuss what you would like to improve.
-
----
-
-## 📧 Contact
-**Shashank Pandey**  
-[GitHub Profile](https://github.com/Shasha004)
