@@ -49,7 +49,7 @@ streamlit run stockportfolioanalyzer.py
 ---
 
 ## 🔗 Live Demo
-Streamlit Cloud: [Comprehensive Stock Analyzer](https://shasha004-comprehensive-stock-analyzer.streamlit.app/)
+Streamlit Cloud: [Comprehensive Stock Analyzer](https://comprehensive00stock00analyzer.streamlit.app/)
 
 ---
 
